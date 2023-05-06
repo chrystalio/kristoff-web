@@ -60,6 +60,6 @@ export default {
     prevLinks: false,
     footerEditLink: false,
     footer: true,
-    footerText: <>Made with ❤️ {new Date().getFullYear()} © Kristoff.</>,
+    footerText: <>Made with ☕️ {new Date().getFullYear()} © Kristoff.</>,
     unstable_faviconGlyph: '🚀',
 }
